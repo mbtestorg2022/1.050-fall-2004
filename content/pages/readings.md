@@ -20,63 +20,763 @@ Book Chapters
 *   Chapter 9 - Stresses: Beams in Bending ([PDF]({{< baseurl >}}/resources/emech9_04))
 *   Chapter 10 - Deflections Due to Bending ([PDF]({{< baseurl >}}/resources/emech10_04))
 
-| week # | ses # | Topics   | readings |
-| --- | --- | --- | --- |
-| Week 1 | Lec 1 | Introduction | 1.1-1.4 |
-| Lab 0 | Use of Spreadsheet | &nbsp; |
-| Lec 2 | Concept of Force | 2.1 |
-| Week 2 | Lec 3 | Concept of Moment | 2.2 |
-| Lab 1 | &nbsp; |
-| Lec 4 | Static Equilibrium Requirements | &nbsp; |
-| Lab 2 | Design Exercise 1 | &nbsp; |
-| Lec 5 | Truss Structures | 3.1 |
-| Week 3 | Lec 6 | &nbsp; |
-| Lab 3 | &nbsp; |
-| Lec 7 | Beam Structures | 3.2 |
-| Lab 4 | &nbsp; |
-| Lec 8 | &nbsp; |
-| Week 4 | Lec 9 | Design Exercise 2 | &nbsp; |
-| Lab 5 | Torsion of Circular Shafts | 3.3 |
-| Lec 10 | &nbsp; |
-| Lab 6 | Thin Cylinder Under Pressure | 3.4 |
-| Lec 11 | Concept of Stress | 4.1 |
-| Week 5 | Lec 12 | &nbsp; |
-| Lab 7 | Stress Component Transformation | &nbsp; |
-| Lec 13 | &nbsp; |
-| Lab 8 | Stress Fields | 4.2 |
-| Quiz 1 | Quiz 1 | &nbsp; |
-| Week 6 | Lab 9 | Indeterminate Systems | 5.1 |
-| Lec 14 | Compatibility of Deformation | &nbsp; |
-| Lec 15 | &nbsp; |
-| Week 7 | Lec 16 | Truss Matrix Analysis | 5.2 |
-| Lab 10 | &nbsp; |
-| Lec 17 | Design Exercise 3 | &nbsp; |
-| Lab 11 | Concept of Strain | 6.1 |
-| Lec 18 | Strain Component Transformation | 6.2 |
-| Week 8 | Lec 19 | &nbsp; |
-| Lab 12 | Material Properties / Stress-Strain Relationship | 7.1-7.3 |
-| Lec 20 | &nbsp; |
-| Lab 13 | Modes of Failure | 7.4 |
-| Lec 21 | Stress / Deflections Shafts in Torsion | 8.1-8.6 |
-| Week 9 | Lec 22 | Design  {{< br >}}Exercise 4 | &nbsp; |
-| Lab 14 | Stresses - Beams in Bending | 9.1-9.3 |
-| Lec 23 | &nbsp; |
-| Lab 15 | &nbsp; |
-| Lec 24 | Shear Stresses in Beams | 9.4 |
-| Week 10 | Lec 25 | &nbsp; |
-| Quiz 2 | Quiz 2 | &nbsp; |
-| Lec 26 | Stresses in Composite Beams | 9.5 |
-| Week 11 | Lec 27 | Design Exercise 5 | &nbsp; |
-| Lab 16 | &nbsp; |
-| Lec 28 | Deflections Due to Bending | 10.1 |
-| Lab 17 | &nbsp; |
-| Lec 29 | &nbsp; |
-| Week 12 | Lec 30 | &nbsp; |
-| Lab 18 | Buckling of Beams | 10.2 |
-| Lec 31 | &nbsp; |
-| Week 13 | Lec 32 | Design Exercise 6 | &nbsp; |
-| Lab 19 | &nbsp; |
-| Lec 33 | &nbsp; |
-| Lab 20 | &nbsp; |
-| Week 14 | Lec 34 | Frame Matrix Analysis | 10.3 |
-| Lec 35 | Some Special Methods | 5.3, 10.4
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+week #
+{{< thclose >}}
+{{< thopen >}}
+ses #
+{{< thclose >}}
+{{< thopen >}}
+Topics  
+{{< thclose >}}
+{{< thopen >}}
+readings
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 1
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+1.1-1.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 0
+{{< tdclose >}}
+{{< tdopen >}}
+Use of Spreadsheet
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 2
+{{< tdclose >}}
+{{< tdopen >}}
+Concept of Force
+{{< tdclose >}}
+{{< tdopen >}}
+2.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 2
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 3
+{{< tdclose >}}
+{{< tdopen >}}
+Concept of Moment
+{{< tdclose >}}
+{{< tdopen >}}
+2.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 4
+{{< tdclose >}}
+{{< tdopen >}}
+Static Equilibrium Requirements
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 2
+{{< tdclose >}}
+{{< tdopen >}}
+Design Exercise 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 5
+{{< tdclose >}}
+{{< tdopen >}}
+Truss Structures
+{{< tdclose >}}
+{{< tdopen >}}
+3.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 3
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 6
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 7
+{{< tdclose >}}
+{{< tdopen >}}
+Beam Structures
+{{< tdclose >}}
+{{< tdopen >}}
+3.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 4
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 8
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 4
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 9
+{{< tdclose >}}
+{{< tdopen >}}
+Design Exercise 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 5
+{{< tdclose >}}
+{{< tdopen >}}
+Torsion of Circular Shafts
+{{< tdclose >}}
+{{< tdopen >}}
+3.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 10
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 6
+{{< tdclose >}}
+{{< tdopen >}}
+Thin Cylinder Under Pressure
+{{< tdclose >}}
+{{< tdopen >}}
+3.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 11
+{{< tdclose >}}
+{{< tdopen >}}
+Concept of Stress
+{{< tdclose >}}
+{{< tdopen >}}
+4.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 5
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 12
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 7
+{{< tdclose >}}
+{{< tdopen >}}
+Stress Component Transformation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 13
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 8
+{{< tdclose >}}
+{{< tdopen >}}
+Stress Fields
+{{< tdclose >}}
+{{< tdopen >}}
+4.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 6
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 9
+{{< tdclose >}}
+{{< tdopen >}}
+Indeterminate Systems
+{{< tdclose >}}
+{{< tdopen >}}
+5.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 14
+{{< tdclose >}}
+{{< tdopen >}}
+Compatibility of Deformation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 15
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 7
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 16
+{{< tdclose >}}
+{{< tdopen >}}
+Truss Matrix Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+5.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 10
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 17
+{{< tdclose >}}
+{{< tdopen >}}
+Design Exercise 3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 11
+{{< tdclose >}}
+{{< tdopen >}}
+Concept of Strain
+{{< tdclose >}}
+{{< tdopen >}}
+6.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 18
+{{< tdclose >}}
+{{< tdopen >}}
+Strain Component Transformation
+{{< tdclose >}}
+{{< tdopen >}}
+6.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 8
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 19
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 12
+{{< tdclose >}}
+{{< tdopen >}}
+Material Properties / Stress-Strain Relationship
+{{< tdclose >}}
+{{< tdopen >}}
+7.1-7.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 20
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 13
+{{< tdclose >}}
+{{< tdopen >}}
+Modes of Failure
+{{< tdclose >}}
+{{< tdopen >}}
+7.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 21
+{{< tdclose >}}
+{{< tdopen >}}
+Stress / Deflections Shafts in Torsion
+{{< tdclose >}}
+{{< tdopen >}}
+8.1-8.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 9
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 22
+{{< tdclose >}}
+{{< tdopen >}}
+Design  
+Exercise 4
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 14
+{{< tdclose >}}
+{{< tdopen >}}
+Stresses - Beams in Bending
+{{< tdclose >}}
+{{< tdopen >}}
+9.1-9.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 23
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 15
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 24
+{{< tdclose >}}
+{{< tdopen >}}
+Shear Stresses in Beams
+{{< tdclose >}}
+{{< tdopen >}}
+9.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 10
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 25
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 26
+{{< tdclose >}}
+{{< tdopen >}}
+Stresses in Composite Beams
+{{< tdclose >}}
+{{< tdopen >}}
+9.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 11
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 27
+{{< tdclose >}}
+{{< tdopen >}}
+Design Exercise 5
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 16
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 28
+{{< tdclose >}}
+{{< tdopen >}}
+Deflections Due to Bending
+{{< tdclose >}}
+{{< tdopen >}}
+10.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 17
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 29
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 12
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 30
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 18
+{{< tdclose >}}
+{{< tdopen >}}
+Buckling of Beams
+{{< tdclose >}}
+{{< tdopen >}}
+10.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 31
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 13
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 32
+{{< tdclose >}}
+{{< tdopen >}}
+Design Exercise 6
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 19
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 33
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 20
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 14
+{{< tdclose >}}
+{{< tdopen >}}
+Lec 34
+{{< tdclose >}}
+{{< tdopen >}}
+Frame Matrix Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+10.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 35
+{{< tdclose >}}
+{{< tdopen >}}
+Some Special Methods
+{{< tdclose >}}
+{{< tdopen >}}
+5.3, 10.4
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
