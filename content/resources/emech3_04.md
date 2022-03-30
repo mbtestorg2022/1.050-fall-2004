@@ -7,6 +7,7 @@ description: 'This resource includes informations on internal forces in members 
   in torsion.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-050-solid-mechanics-fall-2004/5070a932644d2cb44cc965ac56f79c66_emech3_04.pdf
 file_type: application/pdf
+parent_uid: 046f2c3f-662d-736c-dce5-648789e2ba0a
 resourcetype: Document
 title: emech3_04.pdf
 uid: 5070a932-644d-2cb4-4cc9-65ac56f79c66
