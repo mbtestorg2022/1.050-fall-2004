@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: bf7c5029-68d2-da7f-ecae-d82057dd01e7
 ---
@@ -26,7 +29,7 @@ IN CLASS EXERCISES
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Week 1
 {{< tdclose >}}
 {{< tdopen >}}
@@ -65,7 +68,7 @@ In Class Exercise 2 ([PDF]({{< baseurl >}}/resources/class04_2))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Week 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -130,7 +133,7 @@ In Class Exercise 5 ([PDF]({{< baseurl >}}/resources/class04_5))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Week 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -193,7 +196,7 @@ In Class Exercise 8 ([PDF]({{< baseurl >}}/resources/class04_8))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Week 4
 {{< tdclose >}}
 {{< tdopen >}}
@@ -256,7 +259,7 @@ In Class Exercise 11 ([PDF]({{< baseurl >}}/resources/class04_11))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Week 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -319,7 +322,7 @@ Quiz 1
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Week 6
 {{< tdclose >}}
 {{< tdopen >}}
@@ -358,7 +361,7 @@ In Class Exercise 15 ([PDF]({{< baseurl >}}/resources/class04_15))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Week 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -421,7 +424,7 @@ In Class Exercise 18 ([PDF]({{< baseurl >}}/resources/class04_18))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Week 8
 {{< tdclose >}}
 {{< tdopen >}}
@@ -484,7 +487,7 @@ In Class Exercise 21 ([PDF]({{< baseurl >}}/resources/class04_21))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Week 9
 {{< tdclose >}}
 {{< tdopen >}}
@@ -548,7 +551,7 @@ In Class Exercise 24 ([PDF]({{< baseurl >}}/resources/class04_24))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Week 10
 {{< tdclose >}}
 {{< tdopen >}}
@@ -587,7 +590,7 @@ In Class Exercise 26 ([PDF]({{< baseurl >}}/resources/class04_26))
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Week 11
 {{< tdclose >}}
 {{< tdopen >}}
@@ -650,7 +653,7 @@ Lec 29
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Week 12
 {{< tdclose >}}
 {{< tdopen >}}
@@ -689,7 +692,7 @@ Lec 31
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Week 13
 {{< tdclose >}}
 {{< tdopen >}}
@@ -740,7 +743,7 @@ Lab 20
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 14
 {{< tdclose >}}
 {{< tdopen >}}

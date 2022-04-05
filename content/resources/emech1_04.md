@@ -4,6 +4,11 @@ description: This resource contains the information on what the book is about, w
   it contains, and resources that might be used.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-050-solid-mechanics-fall-2004/623a9dd02bb07d20023e0be994284948_emech1_04.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 parent_uid: 046f2c3f-662d-736c-dce5-648789e2ba0a
 resourcetype: Document
 title: emech1_04.pdf

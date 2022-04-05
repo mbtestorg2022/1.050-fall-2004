@@ -4,6 +4,11 @@ description: This resource includes exercises to deduce, from the geometry, an e
   which will allow to compute the length.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-050-solid-mechanics-fall-2004/4e04697a8e05161f79ea4f6a1804b717_class04_7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 parent_uid: b2807f85-9dc3-2920-f155-75bbcbd328ec
 resourcetype: Document
 title: class04_7.pdf
